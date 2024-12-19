@@ -291,7 +291,7 @@ export function Register() {
                 />
               </div>
             </div>
-            <div className="space-y-6 !mt-7">
+            {/* <div className="space-y-6 !mt-7">
               <button
                 className="h-[60px] w-full bg-[#69a506] rounded-[10px] text-white text-center tracking-[0] leading-[normal]"
                 onClick={() => register()}
@@ -316,7 +316,7 @@ export function Register() {
                   Alipay login
                 </button>
               </div>
-            </div>
+            </div> */}
             <div
               className="text-center !mt-8"
               // onClick={() => {
