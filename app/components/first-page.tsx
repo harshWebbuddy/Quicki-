@@ -160,8 +160,8 @@ export function FirstPage() {
             </div>
           </div>
         </nav>
-        <section className="w-full mt-40 relative z-[1]">
-          <div className="relative">
+   <section className="w-full mt-40 2xl:p-0 p-6 relative z-[1]"> 
+     <div className="relative">
             <div className="h-fit w-full mx-auto">
               <div className="flex flex-col lg:flex-row justify-between w-full gap-10">
                 <div className="w-full flex lg:justify-end">
